@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vozes-Unidas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+570f5dc7f97eee2f5da3914595bebdbebb64d13a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vozes-Unidas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vozes-Unidas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

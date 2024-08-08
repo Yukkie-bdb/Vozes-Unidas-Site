@@ -11,5 +11,6 @@
         public string descricao { get; set; }
         public int EmpresaId { get; set; }
         public Empresa? Empresa { get; set; }
+
     }
 }

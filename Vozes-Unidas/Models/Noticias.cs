@@ -7,5 +7,7 @@
         public string titulo {  get; set; }
         public string conteudo { get; set; }
         public DateOnly dataPublicacao { get; set; }
+        public int UserId { get; set; }
+        public ApplicationUser? User { get; set; }
     }
 }

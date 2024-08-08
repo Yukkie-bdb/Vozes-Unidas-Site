@@ -8,6 +8,7 @@
         public string Senha { get; set; }
         public int Telefone { get; set; }
         public string CNPJ { get; set; }
+        public string Descricao { get; set; }
 
     }
 }

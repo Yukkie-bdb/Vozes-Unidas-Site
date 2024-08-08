@@ -6,5 +6,6 @@
         public string foto { get; set; }
         public string Nome { get; set; }
         public int telefone { get; set; }
+        public string descricao { get; set; }
     }
 }
